@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a project with 3 other teammates as part of Launch School's Capstone program
+- 🌱 I’m currently learning System Design, fundamental concepts of AI, and React
+- 📫 How to reach me: you can find the link to my LinkedIn profile on the lefthand side of this page 
+- ⚡ Fun fact: I know Russian
+
 <!--
 **cmphilpot/cmphilpot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
