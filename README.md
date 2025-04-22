@@ -1,6 +1,11 @@
-## Hi there 👋
+Hi there 👋, I'm Chase!
+I'm a Software Engineer based in New London, Connecticut
 
+🚀 Frame App
+I created Frame which is an open-source ...
 
+📧 How to reach me
+LinkedIn or Email: philpotchase[at]gmail.com
 
 
 <div class="markdown-heading" dir="auto"><h3 align="left" class="heading-element" dir="auto">Connect with me:</h3><a id="user-content-connect-with-me" class="anchor" aria-label="Permalink: Connect with me:" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div><p align="left" dir="auto">
