@@ -1,4 +1,4 @@
-Hi there 👋, I'm Chase!
+## Hi there 👋, I'm Chase!
 I'm a Software Engineer based in New London, Connecticut
 
 🚀 Frame App
