@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Chase!
 I'm a Software Engineer based in New London, Connecticut
 
-🚀 Frame App
+# 🚀 Frame App
 I created Frame which is an open-source ...
 
-📧 How to reach me
+# 📧 How to reach me
 LinkedIn or Email: philpotchase[at]gmail.com
 
 
