@@ -2,7 +2,7 @@
 I'm a Software Engineer based in New London, Connecticut
 
 ### 🚀 Frame App
-I recently developed Frame, an open-source image search platform specifically designed for developers. It simplifies the embedding and image search process and deploys directly to a user's AWS account. The platform provides image embedding and multimodal similarity search through a user-friendly API.
+I recently developed [Frame] (https://www.frame-platform.com/), an open-source image search platform specifically designed for developers. It simplifies the embedding and image search process and deploys directly to a user's AWS account. The platform provides image embedding and multimodal similarity search through a user-friendly API.
 
 You can learn more about Frame here.
 
