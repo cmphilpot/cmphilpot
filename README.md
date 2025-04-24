@@ -1,10 +1,12 @@
 ## Hi there 👋, I'm Chase!
-I'm a Software Engineer based in New London, Connecticut
+I'm a full-stack software engineer with experience in JavaScript, TypeScript, PostgreSQL, and React. 
+I'm a self-starter
+Team player
 
 ### 🚀 Frame App
 I recently developed [Frame](https://www.frame-platform.com/), an open-source image search platform specifically designed for developers. It simplifies the embedding and image search process and deploys directly to a user's AWS account. The platform provides image embedding and multimodal similarity search through a user-friendly API.
 
-You can learn more about Frame [here](https://www.frame-platform.com/case-study/introduction/).
+You can learn more about Frame 👉 [here](https://www.frame-platform.com/case-study/introduction/).
 
 <div class="markdown-heading" dir="auto"><h3 align="left" class="heading-element" dir="auto">Connect with me:</h3><a id="user-content-connect-with-me" class="anchor" aria-label="Permalink: Connect with me:" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div><p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/chase-philpot/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chasephilpot" height="30" width="40" style="max-width: 100%;"></a>
