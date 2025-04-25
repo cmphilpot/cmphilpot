@@ -3,7 +3,9 @@ I'm a full-stack software engineer with extensive experience in JavaScript, Type
 
 My early career experiences have helped me cultivate skills in Social and Emotional Intelligence — self-awareness, empathy, and social effectiveness. I have a demonstrated history of getting things done through cross-functional collaboration.
 
-:goal_net: :lacrosse: :lacrosse: :goal_net:
+:goal_net: :lacrosse: 
+When I am not crunching binaries, you can find me on field coaching youth lacrosse!
+:lacrosse: :goal_net:
 
 ### 🚀 Frame App
 I recently developed [Frame](https://www.frame-platform.com/), an open-source image search platform specifically designed for developers. It simplifies the embedding and image search process and deploys directly to a user's AWS account. The platform provides image embedding and multimodal similarity search through a user-friendly API.
