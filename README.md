@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Chase!
+## Hello world citizen 👋, welcome to my corner of the internet. My name is Chase!
 I'm a full-stack software engineer with extensive experience in JavaScript, TypeScript, PostgreSQL, React, and AWS services. 
 
 
