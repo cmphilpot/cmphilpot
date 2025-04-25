@@ -1,12 +1,10 @@
-## Hello world citizen 👋, welcome to my corner of the internet. My name is Chase!
+## Hello world citizen 👋😁, and welcome to my corner of the internet. My name is Chase!
 I'm a full-stack software engineer with extensive experience in JavaScript, TypeScript, PostgreSQL, React, and AWS services. 
 
-
 ### 🚀 Frame App
-I recently developed [Frame](https://www.frame-platform.com/), an open-source image search platform specifically designed for developers. It simplifies the embedding and image search process and deploys directly to a user's AWS account. The platform provides image embedding and multimodal similarity search through a user-friendly API.
+I recently developed [Frame](https://www.frame-platform.com/), an open-source image search platform specifically designed for developers. It simplifies the embedding and image search process and deploys directly to a user's AWS account. The platform provides image embedding and multimodal similarity search through a user-friendly API. You can learn more about Frame 👉 [here](https://www.frame-platform.com/case-study/introduction/).
 
-You can learn more about Frame 👉 [here](https://www.frame-platform.com/case-study/introduction/).
-
+*
 My early career experiences have helped me cultivate skills in Social and Emotional Intelligence — self-awareness, empathy, and social effectiveness. I have a demonstrated history of getting things done through cross-functional collaboration.
 
 :goal_net: :lacrosse: 
