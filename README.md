@@ -13,6 +13,7 @@ When I am not crunching binaries, you can find me either with my head in a good 
 
 ⚡ Fun fact:
 While living outside the US for several years, I was fortunate to have the opportunity to coach both the Russian and Bulgarian National Lacrosse teams!
+
 :lacrosse: :goal_net:
 
 
