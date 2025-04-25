@@ -27,7 +27,7 @@ When I am not crunching binaries, you can find me either with my head in a good 
 
 ## :incoming_envelope: Contact Me!
 
-  <a href="">
+  <a href="https://www.linkedin.com/in/chase-philpot/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn"/>
   </a>
   
