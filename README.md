@@ -1,9 +1,7 @@
 ## 👋 Hello  🌍, my name is Chase!👨‍💻
 I'm a full-stack software engineer with extensive experience in JavaScript, TypeScript, PostgreSQL, React, and AWS services. My early career experiences have helped me cultivate skills in Social and Emotional Intelligence — self-awareness, empathy, and social effectiveness. I have a demonstrated history of getting things done through cross-functional collaboration.
 
-:goal_net: :lacrosse: 
-
-When I am not crunching binaries, you can find me either with my head in a good book 📚 or on the field coaching youth lacrosse!
+When I am not crunching binaries, you can find me either with my head in a good book 📚 or on the field coaching youth lacrosse! :goal_net: :lacrosse: 
 
 ### 🚀 Frame App
 I recently developed [Frame](https://www.frame-platform.com/), an open-source image search platform specifically designed for developers. It simplifies the embedding and image search process and deploys directly to a user's AWS account. The platform provides image embedding and multimodal similarity search through a user-friendly API. You can learn more about Frame 👉 [here](https://www.frame-platform.com/case-study/introduction/).
