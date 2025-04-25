@@ -3,7 +3,7 @@ I'm a full-stack software engineer with experience in JavaScript, TypeScript, Po
 
 My early career experiences have helped me cultivate skills in Social and Emotional Intelligence — self-awareness, empathy, and social effectiveness. I have a demonstrated history of getting things done through cross-functional collaboration.
 
-![frame-logo-dark](https://github.com/user-attachments/assets/b4fa839b-93b4-486b-b3f7-57f54ca357c5)
+
 
 ### 🚀 Frame App
 I recently developed [Frame](https://www.frame-platform.com/), an open-source image search platform specifically designed for developers. It simplifies the embedding and image search process and deploys directly to a user's AWS account. The platform provides image embedding and multimodal similarity search through a user-friendly API.
@@ -20,6 +20,7 @@ or reach me at my Email: philpotchase[at]gmail.com
 </p>
 
 <!--
+![frame-logo-dark](https://github.com/user-attachments/assets/b4fa839b-93b4-486b-b3f7-57f54ca357c5)
 **cmphilpot/cmphilpot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div class="markdown-heading" dir="auto"><h3 align="left" class="heading-element" dir="auto">Support:</h3><a id="user-content-connect-with-me" class="anchor" aria-label="Permalink: Connect with me:" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div><p align="left" dir="auto">
