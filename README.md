@@ -9,6 +9,7 @@ You can learn more about Frame 👉 [here](https://www.frame-platform.com/case-s
 My early career experiences have helped me cultivate skills in Social and Emotional Intelligence — self-awareness, empathy, and social effectiveness. I have a demonstrated history of getting things done through cross-functional collaboration.
 
 :goal_net: :lacrosse: 
+
 When I am not crunching binaries, you can find me either with my head in a good book 📚 or on the field coaching youth lacrosse!
 
 ⚡ Fun fact:
