@@ -32,7 +32,7 @@ I recently developed [Frame](https://www.frame-platform.com/), an open-source im
 <br>
 
 ## ⚡ Fun fact
-While living outside the US for several years, I was fortunate to have the opportunity to coach both the Russian and Bulgarian National Lacrosse teams!
+While living outside the US for several years, I was fortunate enough to have the opportunity to coach both the Russian and Bulgarian National Lacrosse teams!
 
 :lacrosse: :goal_net:
 
