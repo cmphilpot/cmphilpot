@@ -31,7 +31,7 @@ When I am not crunching binaries, you can find me either with my head in a good 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn"/>
   </a>
   
-  <a href="mailto:satyapatel293@gmail.com">
+  <a href="mailto:philpotchase@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="email">
   </a>
 
