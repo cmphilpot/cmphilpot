@@ -1,4 +1,4 @@
-## Hello world citizen 👋😁, and welcome to my corner of the internet. My name is Chase!
+## Hello world citizen 🌍👋😁, my name is Chase!
 I'm a full-stack software engineer with extensive experience in JavaScript, TypeScript, PostgreSQL, React, and AWS services. 
 
 ### 🚀 Frame App
