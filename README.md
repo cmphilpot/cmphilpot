@@ -1,4 +1,4 @@
-## 👋😁 Hello 🌍, my name is Chase!👨‍💻
+## 👋😁 Hello  🌍, my name is Chase!👨‍💻
 I'm a full-stack software engineer with extensive experience in JavaScript, TypeScript, PostgreSQL, React, and AWS services. 
 
 ### 🚀 Frame App
