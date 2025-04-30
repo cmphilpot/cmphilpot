@@ -1,5 +1,5 @@
 ## 👋 Hello  🌍, my name is Chase!👨‍💻
-I'm a full-stack software engineer with extensive experience in JavaScript, TypeScript, PostgreSQL, React, and AWS services. My early career experiences have helped me cultivate skills in Social and Emotional Intelligence — self-awareness, empathy, and social effectiveness. I have a demonstrated history of getting things done through cross-functional collaboration.
+I'm a full-stack software engineer with extensive experience in JavaScript, TypeScript, PostgreSQL, React, and AWS services.
 
 When I am not crunching binaries, you can find me either with my head in a good book 📚 or on the field coaching youth lacrosse! :lacrosse: :goal_net:  
 
