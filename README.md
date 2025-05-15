@@ -1,5 +1,5 @@
 ## 👋 Hello  🌍, my name is Chase!👨‍💻
-I'm a full-stack software engineer with extensive experience in JavaScript, TypeScript, PostgreSQL, React, and AWS services.
+I'm a full-stack software engineer with extensive experience in JavaScript, TypeScript, PostgreSQL, React, and Amazon Web Services.
 
 When I am not crunching binaries, you can find me either with my head in a good book 📚 or on the field coaching lacrosse! :lacrosse: :goal_net:  
 
