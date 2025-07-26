@@ -32,7 +32,7 @@ I recently developed [Frame](https://www.frame-platform.com/), an open-source im
 <br>
 
 ## ⚡ Fun fact
-I have coached two different National teams!
+I have coached two different National sports teams!
 
 :lacrosse: :goal_net:
 
