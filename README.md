@@ -1,3 +1,5 @@
+<!--
+
 ## 👋 Hello  🌍, my name is Chase!👨‍💻
 I'm a full-stack software engineer with extensive experience in JavaScript, TypeScript, PostgreSQL, React, and Amazon Web Services.
 
@@ -36,7 +38,6 @@ I have coached two different National sports teams!
 
 :lacrosse: :goal_net:
 
-<!--
 "I leverage my engineering and project management backgrounds to deconstruct complex problems and drive them to resolution.
 
 ![frame-logo-dark](https://github.com/user-attachments/assets/b4fa839b-93b4-486b-b3f7-57f54ca357c5)
