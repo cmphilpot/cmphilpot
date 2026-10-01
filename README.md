@@ -1,10 +1,14 @@
 
 <img src="images/quotabelle.png" alt="Quotabelle" width="80">
 
+<img src="images/osnap.png" alt="o snap" width="80">
 
 <img src="images/Red-Cross.png" alt="red cross" width="80">
 
-<img src="images/Red-Cross.png" alt="red cross" width="80">
+<img src="images/TM.png" alt="terraforming" width="80">
+
+<img src="images/frame-logo-dark.png" alt="frame" width="80">
+
 
 
 
