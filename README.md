@@ -1,5 +1,6 @@
 
-![Quotabelle](images/Quotabelle icon (png no transparency).png)
+<img src="Quotabelle-icon.png" alt="Quotabelle" width="80">
+
 <!--
 
 ## 👋 Hello  🌍, my name is Chase!👨‍💻
