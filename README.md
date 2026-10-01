@@ -2,9 +2,9 @@
 <img src="images/quotabelle.png" alt="Quotabelle" width="80">
 
 
-<img src="images/Red-Cross" alt="red cross" width="80">
+<img src="images/Red-Cross.png" alt="red cross" width="80">
 
-<img src="images/Red-Cross" alt="red cross" width="80">
+<img src="images/Red-Cross.png" alt="red cross" width="80">
 
 
 
