@@ -1,19 +1,10 @@
-
-<img src="images/quotabelle.png" alt="Quotabelle" width="80">
-Founder, creator, product manager
-
-<img src="images/osnap.png" alt="o snap" width="80">
-Founder, creator, product manager
-
-<img src="images/frame-logo-light.png" alt="frame" width="80">
-Co-creator, Software Engineer
-
-<img src="images/Red-Cross.png" alt="red cross" width="80">
-Committed Donor
-
-<img src="images/TM.png" alt="terraforming" width="80">
-Ardent Terraformer
-
+| | |
+|---|---|
+| <img src="images/quotabelle.png" alt="Quotabelle" width="80"> | Founder, creator, product manager |
+| <img src="images/osnap.png" alt="o snap" width="80"> | Founder, creator, product manager |
+| <img src="images/frame-logo-light.png" alt="frame" width="80"> | Co-creator, Software Engineer |
+| <img src="images/Red-Cross.png" alt="red cross" width="80"> | Committed Donor |
+| <img src="images/TM.png" alt="terraforming" width="80"> | Ardent Terraformer |
 
 
 
