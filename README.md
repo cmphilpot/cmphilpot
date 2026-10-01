@@ -1,5 +1,5 @@
 
-<img src="Quotabelle-icon.png" alt="Quotabelle" width="80">
+<img src="quotabelle.png" alt="Quotabelle" width="80">
 
 <!--
 
