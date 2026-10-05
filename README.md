@@ -3,7 +3,7 @@
 | <img src="images/osnap.png" alt="o snap" width="80"> | <a href="https://chasephilpot.com/osnapdeals">O Snap Deals Mobile App</a>: Founder, creator, product manager |
 | <img src="images/quotabelle.png" alt="Quotabelle" width="80"> | <a href="https://apps.apple.com/us/app/quotabelle/id6812112924">Quotabelle Mobile App</a>: Founder, creator, product manager |
 | M | <a href="https://github.com/mastra-ai/mastra/pull/14962">Mastra ai</a>: Software Engineer |
-| <img src="images/firefox.png" alt="firefox" width="80"> | <a href="">Nightly Browser</a>: Software Engineer |
+| <img src="images/firefox.png" alt="firefox" width="80"> | <a href="https://bugzilla.mozilla.org/user_profile?user_id=774873">Mozilla Firefoxs Nightly Browser</a>: Software Engineer |
 | <img src="images/frame-logo-light.png" alt="frame" width="80"> | <a href="https://www.frame-platform.com/">Frame</a>: Software Engineer, Co-creator |
 | <img src="images/Red-Cross.png" alt="red cross" width="80"> | Committed Donor |
 | <img src="images/TM.png" alt="terraforming" width="80"> | Ardent Terraformer |
