@@ -1,7 +1,7 @@
 | | |
 |---|---|
 | <img src="images/osnap.png" alt="o snap" width="80"> | <a href="https://chasephilpot.com/osnapdeals">O Snap Deals</a>: Founder, creator, product manager |
-| <img src="images/quotabelle.png" alt="Quotabelle" width="80"> | <a href="https://chasephilpot.com/quotabelle">Quotabelle</a>: Founder, creator, product manager |
+| <img src="images/quotabelle.png" alt="Quotabelle" width="80"> | <a href="[https://chasephilpot.com/quotabelle](https://apps.apple.com/us/app/quotabelle/id6812112924)">Quotabelle</a>: Founder, creator, product manager |
 | <img src="images/firefox.png" alt="firefox" width="80"> | <a href="">Nightly Browser</a>: Contributor |
 | <img src="images/frame-logo-light.png" alt="frame" width="80"> | <a href="https://www.frame-platform.com/">Frame</a>: Co-creator, Software Engineer |
 | <img src="images/Red-Cross.png" alt="red cross" width="80"> | Committed Donor |
