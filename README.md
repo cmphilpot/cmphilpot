@@ -1,6 +1,5 @@
 | | |
 |---|---|
-| <img src="images/osnap.png" alt="o snap" width="80"> | <a href="https://chasephilpot.com/osnapdeals">O Snap Deals Mobile App</a>: Founder, creator, product manager |
 | <img src="images/quotabelle.png" alt="Quotabelle" width="80"> | <a href="https://apps.apple.com/us/app/quotabelle/id6812112924">Quotabelle Mobile App</a>: Creator |
 | Mastra.ai | <a href="https://github.com/mastra-ai/mastra/pull/14962">Mastra ai</a>: Software Engineer |
 | <img src="images/firefox.png" alt="firefox" width="80"> | <a href="https://bugzilla.mozilla.org/user_profile?user_id=774873">Mozilla Firefox, Nightly Browser</a>: Software Engineer |
@@ -11,7 +10,8 @@
 
 
 <!--
-
+| |
+<img src="images/osnap.png" alt="o snap" width="80"> | <a href="https://chasephilpot.com/osnapdeals">O Snap Deals Mobile App</a>: Founder, creator, product manager 
 
 
 ## 👋 Hello  🌍, my name is Chase!👨‍💻
